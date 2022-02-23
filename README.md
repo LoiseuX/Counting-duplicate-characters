@@ -1,12 +1,10 @@
 # Counting-duplicate-characters
 
-package counting.duplicate.characters;
-
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Map.Entry;
-import java.util.Scanner;
-public class CountingDuplicateCharacters {
+    import java.util.HashMap;
+    import java.util.Map;
+    import java.util.Map.Entry;
+    import java.util.Scanner;
+    public class CountingDuplicateCharacters {
     public static void main(String[] args) {
        
         //get input from the user
